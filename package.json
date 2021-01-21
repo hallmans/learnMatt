@@ -1,0 +1,23 @@
+{
+  "name": "learnmatt",
+  "version": "1.0.0",
+  "description": "Matthew learning Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hallmans/learnMatt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hallmans/learnMatt/issues"
+  },
+  "homepage": "https://github.com/hallmans/learnMatt#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "cowsay": "^1.4.0"
+  }
+}
